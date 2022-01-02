@@ -1,0 +1,23 @@
+{
+	"licenseKey": "bgk7mMvLyj4CvulUv5QJ67BkAg1mUzWH",
+	"antiCaptcha": "7a63fe0c46a8653c9859ebd2b7f13bc4",
+	"urlCaptcha": "https://api.capmonster.cloud",
+	"ac": false,
+	"proxy": false,
+	"proxyOptions": "",
+	"usecap": false,
+	"debug": false,
+	"alcore_first": false,
+	"alcore_enabled": false,
+	"alcore_timer": false,
+	"alcore_mintlm": 1,
+	"alcore_time": 3600,
+	"alternative": false,
+	"nft_enabled": false,
+	"nft_timer": false,
+	"stk_enabled": false,
+	"maxcpu": 90,
+	"ignore_cpu": false,
+	"force_reset_cpu": false,
+	"rpc_guard": false
+}
